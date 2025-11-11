@@ -18,6 +18,7 @@ from sqlalchemy.orm import sessionmaker
 "1. import OS - access OS functions, such as env variables, file paths etc - eg to get api key from env variable"
 "2. import json - to work with json data to read API data"
 "3. import logging - track logs and debugg"
+"4. pandas - data manipulation in Python to read csv, dataframes and filtering https://pandas.pydata.org/docs/getting_started/intro_tutorials/ "
 
 
 # Configure logging
